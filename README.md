@@ -76,9 +76,7 @@ badge ①和②均表示该项目在npm的版本，而不同的颜色使人一�
 
 ### Analysis
 - 持续集成
-    > 持续集指的是，频繁的（一天多次）将代码继承到主干。他的目的就是让产品可以快速迭代，同时还能保持高质量
-    一个自动化的可持续集成网站：[https://travis-ci.org](https://travis-ci.org/)
-    更多关于可持续集成的介绍你可以 [点击这里](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
+    > 持续集指的是，频繁的（一天多次）将代码继承到主干。他的目的就是让产品可以快速迭代，同时还能保持高质量<br />一个自动化的可持续集成网站：[https://travis-ci.org](https://travis-ci.org/)<br />更多关于可持续集成的介绍你可以 [点击这里](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
 
 - 项目依赖检测
     > [在这里](https://david-dm.org/) 你可以检测项目依赖情况
