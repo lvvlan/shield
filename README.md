@@ -82,8 +82,7 @@ badge ①和②均表示该项目在npm的版本，而不同的颜色使人一�
     > [在这里](https://david-dm.org/) 你可以检测项目依赖情况
 
 - 代码覆盖率
-    > 通常指在运行测试用例后，一共走过了多少句代码，用走过的这个代码除以测试对象的代码行数，就是这次测试的代码覆盖率了。
-    更多关于代码覆盖率的解释你可以参考这里：[http://www.cnblogs.com](http://www.cnblogs.com/coderzh/archive/2009/03/29/1424344.html) ; [http://baike.baidu.com](http://baike.baidu.com/link?url=PjlIgIEA_Sl4FmxkKvDQ7_2C_1Wc2uaUZqDL7RCee8PIB4TMNZV085WY1fCjYvJTnEH3z7Ci0IEFdf00DW7sLAPx5YBmfjeP2y-DBbQIORKrDy9-N6_nziETkzDDLRN2TDyl8C_DGUQMOcKmW03ar_)
+    > 通常指在运行测试用例后，一共走过了多少句代码，用走过的这个代码除以测试对象的代码行数，就是这次测试的代码覆盖率了。<br />更多关于代码覆盖率的解释你可以参考这里：[http://www.cnblogs.com](http://www.cnblogs.com/coderzh/archive/2009/03/29/1424344.html) ; [http://baike.baidu.com](http://baike.baidu.com/link?url=PjlIgIEA_Sl4FmxkKvDQ7_2C_1Wc2uaUZqDL7RCee8PIB4TMNZV085WY1fCjYvJTnEH3z7Ci0IEFdf00DW7sLAPx5YBmfjeP2y-DBbQIORKrDy9-N6_nziETkzDDLRN2TDyl8C_DGUQMOcKmW03ar_)
 
 ### Warn
 - 本例中所有的badge均为展示作用，并无实际意义。
