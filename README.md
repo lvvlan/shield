@@ -1,14 +1,14 @@
 <h1>常用的shields图标详解</h1>
 
 
-<p align="center" style='font-size: 26px; border-bottom: 1px solid #ccc; padding-bottom: 6px;'>WHAT</p>
+<h2 align="center">WHAT</h2>
 
 
 什么是shields？ 不知道大家在github、npm上肆意的浏览代码、使用工具的时候，有没有注意到这样的小图标： <br />
 ![npm][npm] ![node][node] ![travis][travis]<br />
 这些小图标都是用来做什么的呢？ 简单的来说，这些小图标，更像是一枚徽章（Badge），显而易见的标明了该项目当前的某些状态，以下统称为badge。
 
-<p align="center" style='font-size: 26px; border-bottom: 1px solid #ccc; padding-bottom: 6px;'>DETAILS</p>
+<h2 align="center">DETAILS</h2>
 
 ### Make
 每个badge都有一个制作的标准，如下图所示，他基本遵循了去除不必要的文本、减少水平长度（如果可以）的基本原则，使他们看起来一目了然。
@@ -72,7 +72,7 @@ badge ①和②均表示该项目在npm的版本，而不同的颜色使人一�
   </tr>
 </table>
 
-<p align="center" style='font-size: 26px; border-bottom: 1px solid #ccc; padding-bottom: 6px;'>OTHERS</p>
+<h2 align="center">OTHERS</h2>
 
 ### Analysis
 - 持续集成
