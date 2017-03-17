@@ -26,7 +26,7 @@
 - status of third-party dependencies: dependencies | out-of-date
 
 ### Color
-标准badge同样的状态会有不用的颜色，不同的颜色会反馈出不同的信息，比如：<br />
+标准badge同样的状态会有不同的颜色，不同的颜色会反馈出不同的信息，比如：<br />
 ① ![npm][npm]    ②![npm][npm1]<br />
 badge ①和②均表示该项目在npm的版本，而不同的颜色使人一眼就能区分出，哪个是正式版（badge①）哪个是非正式版（badge②）；通常以计算机三基色（RGB）作为背景色的状态表示确定的、严谨的，反之表示有缺陷的、不能完全确定的。
 
@@ -42,7 +42,7 @@ badge ①和②均表示该项目在npm的版本，而不同的颜色使人一�
   </tr>
   <tr>
     <td><a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/npm-0.3.3-orange.svg" alt="npm"></a></td>
-    <td> 以除计算机基色（RBG）颜色作为背景颜色（通常为orange）表示该项目目前还不是正式版</td>
+    <td> 以除计算机三基色（RBG）作为背景色（通常为orange）表示该项目目前还不是正式版</td>
   </tr>
   <tr>
     <td>
